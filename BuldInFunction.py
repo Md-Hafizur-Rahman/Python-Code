@@ -33,7 +33,7 @@ it's have two argument .
 1. function
 2. iterator object ( aply function depend iterator object )
 
-work:filter() ude to filter if any item return false than filter() function avoid this return result. 
+work:filter() use to filter if any item return false than filter() function avoid this return result. 
 
 """
 
